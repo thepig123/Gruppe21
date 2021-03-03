@@ -2,4 +2,6 @@
 
 2. Dette programmet tar innholdet i en fil og kopierer den over til en ny fil som ikke har innhold fra før. 
 
-3. PS: Filene du skal bruke til å kjøre programmet må være i samme fildestinasjon som selve programfilen. 
+3. PS: Filene du skal bruke til å kjøre programmet må være i samme fildestinasjon som selve programfilen.
+
+Creds til Tore Vedøy for hjelp!
