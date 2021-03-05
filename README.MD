@@ -4,3 +4,4 @@ Gruppe 21
 	Johannes Leite
 	Sondre Slettene
 	Hedvig Stendal
+	Monika Kjøstvedt
