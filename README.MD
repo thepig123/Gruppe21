@@ -5,3 +5,4 @@ Gruppe 21
 	Sondre Slettene
 	Hedvig Stendal
 	Monika Kjøstvedt
+	Kasper Skjæveland
